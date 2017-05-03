@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SanjanaTailor/cordovaTemplate.git"
+    "url": "https://github.com/SanjanaTailor/cordovaTemplate/tree/Template.git"
   },
-  "homepage": "https://github.com/SanjanaTailor/cordovaTemplate",
+  "homepage": "https://github.com/SanjanaTailor/cordovaTemplate/tree/Template",
   "keywords": [
     "ecosystem:cordova",
     "cordova:template"
